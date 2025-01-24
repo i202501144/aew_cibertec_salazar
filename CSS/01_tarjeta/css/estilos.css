@@ -1,12 +1,20 @@
 
 h1{color: blue;
-    margin: 10;
+    text-align: center;
 
 
 }
 p{color: rgb(167, 10, 29);
+    text-align: center;
 
 }
 h2{color: rgb(7, 235, 72);
+    text-align: center;
 
+}
+img{
+    display: flex;
+    width: 200px;
+
+   
 }
